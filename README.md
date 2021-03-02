@@ -12,7 +12,7 @@ While chatting on WhatsApp, a sudden urge to recreate the home page layout struc
 </p>
 
 ## Techstack used
-#### Java
+  Java
 
 ## How to Run the app?
 Simply clone the repo or download on your system, import the project on ***Android Studio*** and run on an emulator or a physical device.
