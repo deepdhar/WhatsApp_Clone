@@ -8,7 +8,7 @@ While chatting on WhatsApp, a sudden urge to recreate the home page layout struc
 
 ## Screenshot
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/53803245/109700280-8ffebc80-7bb7-11eb-8bbe-030c29846c65.jpg"/>
+  <img width="400" height="970" src="https://user-images.githubusercontent.com/53803245/109700280-8ffebc80-7bb7-11eb-8bbe-030c29846c65.jpg"/>
 </p>
 
 ## Techstack used
